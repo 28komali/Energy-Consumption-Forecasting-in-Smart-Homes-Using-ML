@@ -2,5 +2,4 @@ Django>=3.2
 numpy
 matplotlib
 scikit-learn
-pickle
 gunicorn
